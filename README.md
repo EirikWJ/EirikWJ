@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   <!--<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=EirikWJ&theme=transparent&count_private=true&border_radius=10&locale=en" alt="EirikWJ's" />-->
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=EirikWJ&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="EirikWJ's Most Used Languages" />
 </div>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
