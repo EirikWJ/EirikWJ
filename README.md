@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Things I code with
-React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Apollo Heroku redux ReactiveX GraphQL Sass Styled Components git NestJs angular npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs
 ## ⚡️ Stats
 
 <br>
@@ -22,6 +20,7 @@ React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Ap
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=EirikWJ&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="EirikWJ's GitHub Stats" />
   <!--<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=EirikWJ&theme=transparent&count_private=true&border_radius=10&locale=en" alt="EirikWJ's" />-->
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EirikWJ&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=EirikWJ&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="EirikWJ's Most Used Languages" />
 </div>
 
