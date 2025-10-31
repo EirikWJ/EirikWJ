@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</p>
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=EirikWJ&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="EirikWJ's GitHub Stats" />
@@ -23,7 +22,6 @@ Here are some ideas to get you started:
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=EirikWJ&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="EirikWJ's Most Used Languages" />
 </div>
 
-<hr>
 <!--
 ## 🛠️ Languages and Tools
 <p align="center">
@@ -50,5 +48,4 @@ Here are some ideas to get you started:
 -->
 
                   
-</p>
           
