@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align=center>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=EirikWJ&theme=transparent&layout=donut&hide=jupyter%20notebook,css,json,makefile,nix,batchfile&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="EirikWJ's Most Used Languages" />
+  <img width=325 src="https://github-readme-stats-kappa-lac-55.vercel.app/api/top-langs?username=EirikWJ&theme=transparent&layout=donut&hide=jupyter%20notebook,css,json,makefile,nix,batchfile&langs_count=8&border_radius=10&show_icons=true&locale=en" />
 </div>
+
 
 
 <!--
