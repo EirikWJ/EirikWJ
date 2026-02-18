@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 <div align=center>
   <img width=325 src="https://github-readme-stats-kappa-lac-55.vercel.app/api/top-langs?username=EirikWJ&theme=transparent&layout=donut&hide=jupyter%20notebook,css,json,makefile,nix,batchfile&langs_count=8&border_radius=10&show_icons=true&locale=en" />
 </div>
+<div align="center">
+  <img width="500" src="https://streak-stats.demolab.com/?user=EirikWJ&theme=dark&hide_border=true&background=00000000" alt="EirikWJ's GitHub Streak" />
+</div>
 
 
 
