@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=EirikWJ&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="EirikWJ's GitHub Stats" />
+  <img width=390 src="https://github-readme-stats-kappa-lac-55.vercel.app/api?username=EirikWJ&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" />
 </div>
 <br>
 <div align=center>
