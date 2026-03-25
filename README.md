@@ -4,7 +4,7 @@
   <tr>
   <td>
     
-  <img width="325" src="https://github-readme-stats-kappa-lac-55.vercel.app/api/top-langs?username=EirikWJ&theme=transparent&layout=donut&hide=jupyter%20notebook&langs_count=6&border_radius=10&show_icons=true&locale=en&hide_border=true" />
+  <img width="325" src="https://github-readme-stats-kappa-lac-55.vercel.app/api/top-langs?username=EirikWJ&theme=transparent&layout=donut&hide=jupyter%20notebook&langs_count=6&border_radius=10&show_icons=true&locale=en&hide_border=true&exclude_repo=github-readme-stats,Time-window-vehicle-routing"/>
   
   </td>
   <td>
